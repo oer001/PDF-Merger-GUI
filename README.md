@@ -10,3 +10,7 @@ Simple GUI to merge PDFs using existing Python libraries
 ## Objectives
 
 ## Requirements
+
+## TODO
+- Create custom buttons with realistic GUI layout using FIGMA
+- Re-write code from scratch with new understanding
