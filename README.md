@@ -15,3 +15,10 @@ Simple GUI to merge PDFs using existing C# libraries
 ## Design Process
 
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
